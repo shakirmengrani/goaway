@@ -28,9 +28,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 *.cdninstagram.com
 0.0.0.0 *.facebook.com
 0.0.0.0 *.fbcdn.net
-0.0.0.0 *.googleusercontent.com
-0.0.0.0 *.googlevideo.com
-0.0.0.0 *.gstatic.com
+#0.0.0.0 *.googleusercontent.com
+#0.0.0.0 *.googlevideo.com
+#0.0.0.0 *.gstatic.com
 0.0.0.0 *.instagram.com
 0.0.0.0 *.moloco.com
 0.0.0.0 b.i.instagram.com
